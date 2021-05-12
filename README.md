@@ -1,3 +1,3 @@
 # Model_Ising
 
-Ising model Simulations with Metropolis algorithm.
+Ising model simulations with Metropolis algorithm.
